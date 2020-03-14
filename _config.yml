@@ -1,0 +1,25 @@
+title:              "A-go Teacher"
+tagline:            "英語の「A」から「go」しましょう！"
+email:              "a.go.teacher@gmail.com"
+description:        "英語の基礎から！「実際使える英語」を学びたいあなたに　学生、会社員だけじゃなく、主婦やシニアの方々まで！みんなの為の難しくない英語勉強"
+author:             "A-go Teacher"
+baseurl:            "/"
+url:                "https://a-go.xyz"
+locale:             "ja_JP"
+thumbnail:          "/img/bg-index.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
