@@ -6,7 +6,7 @@ date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/01/01-MainBack.jpg'
 background: '/img/posts/01/01-Thumbnail1.jpg'
 categories:
-  - benkyou
+  - 1
 tags:
   - 英語
   - 勉強法
@@ -43,13 +43,13 @@ Hello Minasan!
 
 
 
- ![日本は下位に。。](/img/posts/01/01-ets.jpg)
+ ![日本は下位に。。](/img/posts/01/01-ets.JPG)
 
 [toeic l&r 2018 report On test takers worldwide (#44 in 49)](https://www.ets.org/s/toeic/pdf/2018-report-on-test-takers-worldwide.pdf))
 
 
 
- ![会話もLow Grade](/img/posts/01/01-53japan.jpg)
+ ![会話もLow Grade](/img/posts/01/01-53japan.JPG)
 
 [The world’s best non-native english speaking countries, 2019　(#53. Low grade)](https://ceoworld.biz/2019/11/05/revealed-the-worlds-best-non-native-english-speaking-countries-2019/)
 
