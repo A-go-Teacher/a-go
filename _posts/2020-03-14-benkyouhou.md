@@ -25,6 +25,7 @@ description: '日本人の「英語力」は、なぜか他の国の人たちと
 
 
 Hello Minasan!
+
 「英語のAからGoしましょう！」 A-go Teacher です。
 
 
@@ -42,16 +43,36 @@ Hello Minasan!
 しかし日本人の英語力はなぜか他の国の人たちと比べたら低いのが事実ですね。。。
 
 
+<br><br><br><br>
 
+
+##### TOEIC® Listening & Reading Test 国別平均スコア（2018年）
  ![日本は下位に。。](/img/posts/01/01-ets.JPG)
 
-[toeic l&r 2018 report On test takers worldwide (#44 in 49)](https://www.ets.org/s/toeic/pdf/2018-report-on-test-takers-worldwide.pdf))
+
+
+> (参考リンク)
+
+
+>> [関連レポート](https://www.ets.org/s/toeic/pdf/2018-report-on-test-takers-worldwide.pdf)
+
+>> [2018年 TOEIC® Listening & Reading Test  日本の平均スコアは、520点](https://www.iibc-global.org/iibc/press/2019/p117.html)
 
 
 
- ![会話もLow Grade](/img/posts/01/01-53japan.JPG)
 
-[The world’s best non-native english speaking countries, 2019　(#53. Low grade)](https://ceoworld.biz/2019/11/05/revealed-the-worlds-best-non-native-english-speaking-countries-2019/)
+<br><br><br><br>
+
+
+
+
+##### The world’s best non-native english speaking countries, 2019
+
+ ![会話もLow Grade](/img/posts/01/01-53japan.JPG)　[リンク](https://ceoworld.biz/2019/11/05/revealed-the-worlds-best-non-native-english-speaking-countries-2019/)
+
+
+
+<br><br><br><br>
 
 
 
@@ -88,6 +109,7 @@ Hello Minasan!
 外国語を習うためにはまずその言語に慣れるのが優先されるべきであると思います。
 
 
+<br><br><br><br>
 
 ## では、日本人に合った正しい英語の学習法とは？
 
