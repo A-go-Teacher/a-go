@@ -6,7 +6,7 @@ date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/01/01-MainBack.jpg'
 background: '/img/posts/01/01-Thumbnail1.jpg'
 categories:
-  - 1
+  - yomikata
 tags:
   - 英語
   - 勉強法
