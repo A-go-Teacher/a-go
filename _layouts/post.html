@@ -56,7 +56,7 @@ layout: default
 
     var viewEvent = function () {
       gtag('event','보기',{
-      'event_category':'글보기' , 'event_label' : PostName();});
+      'event_category':'글보기' , 'event_label' : {{ page.title }}});
     }
 
     document.addEventListener('load', viewEvent);
