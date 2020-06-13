@@ -58,11 +58,14 @@ layout: default
 
 var PostName = {{ page.title }}
 
-var clickEvent = function () {
+var viewEvent = function () {
   gtag('event','클릭',{
   'event_category':'글보기' , 'event_label' : 'PostName'});
 }
 
+  var vv = document.querySelector('#post-content');
+
+  vv.addEventListener('load',viewEvent);
 
 </script>
 
