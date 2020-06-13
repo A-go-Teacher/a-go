@@ -52,14 +52,9 @@ layout: default
 
     <script>
 
-    var PostName = {{ page.title }}
-
-    var viewEvent = function () {
       gtag('event','보기',{
       'event_category':'글보기' , 'event_label' : {{ page.title }}});
-    }
 
-    document.addEventListener('load', viewEvent);
 
     </script>
 
