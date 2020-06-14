@@ -50,13 +50,7 @@ layout: default
       </div>
     </div>
 
-    <script>
 
-      var postName = {{ page.title }};
-      gtag('event','보기',{
-      'event_category':'글보기' , 'event_label' : postName});
-
-    </script>
 
 
 
@@ -66,6 +60,12 @@ layout: default
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"50c8962e239563ada5fb99747","lid":"2c904e694f","uniqueMethods":true}) })</script>
 
+<script>
 
+  var postName = '{{ page.title }}' ;
+  gtag('event','보기',{
+  'event_category':'글보기' , 'event_label' : postName});
+
+</script>
 
 {% include disqus.html %}
