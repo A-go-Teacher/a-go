@@ -68,4 +68,15 @@ layout: default
 
 </script>
 
+<script>
+ 
+  fbq('track','ViewContent',{
+    content_name:{{ page.title }}
+  });
+
+</script>
+
+
+
+
 {% include disqus.html %}
