@@ -14,6 +14,8 @@ tags:
   - 日本人向け
   - English
   - study
+content_id: '20200314_benkyouhou'
+
 description: '日本人の「英語力」は、なぜか他の国の人たちと比べたら低いのが事実ですね。
 その理由と正しい英語勉強法についてお話しします。'
 ---
